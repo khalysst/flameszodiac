@@ -19,3 +19,9 @@ F (Friends) = 1, L (Lovers) = 2, A (Angry) = 3, M (Married) = 4, E (Engaged) = 5
 <p>Zodiac signs are composed of 12 zodiac signs that are usually meant for birthdates. These are the following; Aries, Leo, Sagittarius, Taurus, Virgo, Capricorn, 
 Gemini, Libra, Aquarius, Cancer, Scorpio and Pisces. These are assessed using a multi-dimensional array in the program. </br>
 0 - Great Match, 1 - Favorable Match and 2 - Unfavorable Match</p>
+
+<p>
+<b>Since the backend is PHP-based, please know that this requires XAMPP to run. </b></br>
+Download XAMPP > Configure installation > Open XAMPP Control Panel > Start Apache > To know that XAMPP is working, type in localhost/dashboard in your address bar. </br>
+Do know that you need to at first, <u>need to import the files into the <i> htdocs </i> folder of XAMPP </u>. </p>
+
